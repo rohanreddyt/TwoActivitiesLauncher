@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoActivitieslauncher</string>
+    <string name="app_name1">TwoActivitieslauncher2</string>
+    <string name="hello">Hello World!</string>
+    <string name="how">How are you?</string>
+    <string name="how_are_you">How are you?</string>
+</resources>
